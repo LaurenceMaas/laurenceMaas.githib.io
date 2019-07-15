@@ -1,0 +1,20 @@
+﻿body, html {
+    background-image: url("BackGroundImage.jpg");
+    background-repeat: no-repeat;
+    background-size: 1800px 1000px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-container {
+    color: Black;
+    /*font-weight: bold*/
+}
+
+p {
+    background-color: #f8f9fa;
+    color: rgba(0,0,0,.7)
+}
+
+.btn{
+    margin: 10px
+}
